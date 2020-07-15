@@ -5,3 +5,7 @@
 * __개발 목적__ : 과카몰리의 세팅을 운영자의 요구대로 빠르게, 실수 없이 세팅 할 수 있도록 함.
 
 * __문서__ : https://drive.google.com/drive/folders/1vgRpkA0AoObmM--9FtwgIBNPPG-TOEFc?usp=sharing
+
+* __개발 전체 일정__ : https://docs.google.com/spreadsheets/d/14QwbKzslxXSXaPgAaTaIp7XNEV-O7GXJHux6eg3Aqaw/edit?usp=sharing
+
+* __모듈 단위 일정__ : https://trello.com/b/SvTndcXK
